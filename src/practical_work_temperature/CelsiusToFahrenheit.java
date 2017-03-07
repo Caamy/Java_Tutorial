@@ -14,6 +14,7 @@ public class CelsiusToFahrenheit {
 
         Scanner sc = new Scanner(System.in);
 
+
         do {
             do {
                 System.out.println("Choose the model of conversion :");
@@ -38,8 +39,6 @@ public class CelsiusToFahrenheit {
                 System.out.println(temperature + "°F equals : " + round(convertedTemperature,2) + "°C");
             }
 
-
-            answer = ' ';
             do {
                 System.out.println("Would you like to convert an other temperature ?");
                 answer = sc.nextLine().charAt(0);
