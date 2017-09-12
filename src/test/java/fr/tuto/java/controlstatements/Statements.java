@@ -1,4 +1,4 @@
-package control_statements;
+package fr.tuto.java.controlstatements;
 
 /**
  * Created by camille.bernard on 01/03/2017.

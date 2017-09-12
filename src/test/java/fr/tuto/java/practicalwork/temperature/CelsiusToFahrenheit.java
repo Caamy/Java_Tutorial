@@ -1,4 +1,4 @@
-package practical_work_temperature;
+package fr.tuto.java.practicalwork.temperature;
 
 import java.util.Scanner;
 

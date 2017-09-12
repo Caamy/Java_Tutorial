@@ -1,4 +1,4 @@
-package variables_operators;
+package fr.tuto.java.variablesoperators;
 
 public class TypesAndOperators {
 

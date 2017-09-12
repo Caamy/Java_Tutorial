@@ -1,4 +1,4 @@
-package control_statements;
+package fr.tuto.java.controlstatements;
 
 import java.util.Scanner;
 

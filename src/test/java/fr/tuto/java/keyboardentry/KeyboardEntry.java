@@ -1,4 +1,4 @@
-package keyboard_entry;
+package fr.tuto.java.keyboardentry;
 
 import java.util.Scanner;
 
