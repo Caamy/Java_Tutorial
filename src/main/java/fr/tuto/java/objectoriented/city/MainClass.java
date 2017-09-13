@@ -1,4 +1,6 @@
-package fr.tuto.java.objectoriented;
+package fr.tuto.java.objectoriented.city;
+
+
 
 public class MainClass {
 
